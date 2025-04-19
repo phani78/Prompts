@@ -1,11 +1,11 @@
-For this android sdk 33 based app add the following functionality. 
-Make it automatically read the next page after the current page is read.  
-A button to select the PDF file on the device, selecting the pdf file should display the file name under the button.  
-Add a text box called "page number" which will have value 1 as default 
-A button "Read PDF" should be enabled after the pdf file selection and clicking the button should read the contents of the pdf file using the device native TextToSpeech engine, starting from the page corresponding to "page number" text box in the pdf file.  
-Add a different button that should pause and resume the reading from that point  and it should have play and pause icons along with the text.  
-Add "next page" and "previous page" buttons that should start reading from the next and previous pages till the end of the file. These buttons should be disabled if there are no previous and next pages in the PDF file.     
-Add a text reading speed selection dropdown with options like 0.25, 0.5. 0.75. 1, 1.25, 1.5, 2, 3 etc. that should immediately change the speed of reading the pdf file. 
-Add a text box called "exclude text" where multiple text entries can be added one after the other. These exclude text entries should be displayed below the text box with a red X 
-Letter or icon and pressing that should remove the text entry. All the text entries adde3d should be excluded from the text reading. All the excluded text entries should be stored in phones memory and they should be displayed when the app is run the next time and such text should be excluded from reading when the app is run the next time.  
-Show a dialog on app launch, explaining something like "This app will not show any ads, this is a tuely a free app. But we have our expenses to support the quality of the app and perform maintenance. So please donate what ever amount you feel is right." Donate button should launch the paypal payment screen from where the users can donate funds to my paypal account. This dialogue should be displayed only every 30 days , by storing to phone memory when the dialogue was last displayed on that device.  
+xxipoipoipoiipoixxFor this android sdk 33 based app add the following functionality. 
+xxipoipoipoiipoixxMake it automatically read the next page after the current page is read.  
+xxipoipoipoiipoixxA button to select the PDF file on the device, selecting the pdf file should display the file name under the button.  
+xxipoipoipoiipoixxAdd a text box called "page number" which will have value 1 as default 
+xxipoipoipoiipoixxA button "Read PDF" should be enabled after the pdf file selection and clicking the button should read the contents of the pdf file using the device native TextToSpeech engine, starting from the page corresponding to "page number" text box in the pdf file.  
+xxipoipoipoiipoixxAdd a different button that should pause and resume the reading from that point  and it should have play and pause icons along with the text.  
+xxipoipoipoiipoixxAdd "next page" and "previous page" buttons that should start reading from the next and previous pages till the end of the file. These buttons should be disabled if there are no previous and next pages in the PDF file.     
+xxipoipoipoiipoixxAdd a text reading speed selection dropdown with options like 0.25, 0.5. 0.75. 1, 1.25, 1.5, 2, 3 etc. that should immediately change the speed of reading the pdf file. 
+xxipoipoipoiipoixxAdd a text box called "exclude text" where multiple text entries can be added one after the other. These exclude text entries should be displayed below the text box with a red X 
+xxipoipoipoiipoixxLetter or icon and pressing that should remove the text entry. All the text entries adde3d should be excluded from the text reading. All the excluded text entries should be stored in phones memory and they should be displayed when the app is run the next time and such text should be excluded from reading when the app is run the next time.  
+xxipoipoipoiipoixxShow a dialog on app launch, explaining something like "This app will not show any ads, this is a tuely a free app. But we have our expenses to support the quality of the app and perform maintenance. So please donate what ever amount you feel is right." Donate button should launch the paypal payment screen from where the users can donate funds to my paypal account. This dialogue should be displayed only every 30 days , by storing to phone memory when the dialogue was last displayed on that device.  
